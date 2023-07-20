@@ -1,0 +1,14 @@
+Package: com.sop.settingsrevamp
+Name: SettingsRevamp
+Description: Customize the ios settings page
+Maintainer: KURD
+Author: KURD
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
+Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Installed-Size: 540
